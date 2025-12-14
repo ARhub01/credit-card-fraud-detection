@@ -1,3 +1,9 @@
+![CI](https://github.com/ARhub01/credit-card-fraud-detection/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Classical-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 # Credit Card Fraud Detection (Machine Learning)
 
 
